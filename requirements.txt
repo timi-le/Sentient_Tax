@@ -1,0 +1,9 @@
+﻿gradio
+sentence-transformers
+chromadb
+faiss-cpu
+requests
+pytest
+black
+flake8
+pre-commit
