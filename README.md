@@ -7,5 +7,7 @@ Sentient Tax — experimental educational tax assistant.
 2. Activate it: source venv/bin/activate
 3. Install: pip install -r requirements.txt
 4. Run: python src/ui.py
+5. An intelligent tax computation engine built with Python & FastAPI.
+6. Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 Disclaimer: educational only.
