@@ -1,0 +1,6 @@
+Profit Before Tax,Capital Allowance,Loss Brought Forward,output,timestamp
+200000,1000,2220,❌ Error: 'Adjusted Profit',2025-10-18 18:38:32.406190
+10000,200,200,❌ Error: 'Adjusted Profit',2025-10-18 18:38:48.922098
+100000,100,200,"✅ **Adjusted Profit:** N/A
+✅ **Taxable Profit:** N/A
+💰 **Company Income Tax (30%):** N/A",2025-10-18 19:23:39.805731
