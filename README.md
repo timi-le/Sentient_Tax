@@ -1,6 +1,10 @@
 ﻿# Sentient Tax
 
-Sentient Tax — experimental educational tax assistant.
+ <p align="center">
+  <img src="Sentient_Tax_Banner.png" alt="Dashboard Preview" width="600">
+</p>
+
+Sentient Tax: experimental educational tax assistant.
 
 ## Quick start
 1. Create virtualenv: python3 -m venv venv
